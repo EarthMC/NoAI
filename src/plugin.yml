@@ -1,0 +1,6 @@
+main: com.kiwifisher.noai.NoAI
+name: NoAI
+author: KiwiFisher
+version: 1.0
+commands:
+  noai:
