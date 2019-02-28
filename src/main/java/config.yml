@@ -1,9 +1,9 @@
   # To add more mobs, follow the layout below.
+
   # All spawn reasons: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/CreatureSpawnEvent.SpawnReason.html
   # All mobs can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
   disabled-mobs:
     ZOMBIE:
-      disabled: true
       disable-for-spawn-methods:
-      - SPAWENER
+      - SPAWNER
       - CUSTOM

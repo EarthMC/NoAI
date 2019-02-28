@@ -1,0 +1,12 @@
+main: com.karlofduty.NoAI.NoAI
+name: NoAI
+author: KiwiFisher, forked by KarlofDuty
+version: 1.5.0
+commands:
+  noai:
+    description: /noai reload reloads the plugin.
+    usage: /noai reload
+permissions:
+  noai.reload:
+    description: Gives access to the reload command.
+    default: op
